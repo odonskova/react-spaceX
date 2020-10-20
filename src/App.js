@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter, Route } from 'react-router-dom'
 
-import '../../spacex/src/style.css';
+import '../src/style.css';
 import FetchData from "./service/FetchData";
 
 import Header from "./components/Header/Header";

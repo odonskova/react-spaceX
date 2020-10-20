@@ -1,6 +1,6 @@
 import React from "react";
 import './Footer.css'
-import logo from '../../../../spacex/src/logo.svg'
+import logo from '../../logo.svg'
 
 const Footer = (props) => {
     const { elon_twitter: elonMask, flickr, twitter, website} = props.companyinfo.links
