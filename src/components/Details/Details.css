@@ -1,0 +1,36 @@
+/* details */
+.details-row, .loader{
+    display: flex;
+    max-width: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.details-description {
+    font-size: 24px;
+    line-height: 35px;
+    text-indent: 25px;
+    text-align: justify;
+}
+.details-title {
+    font-size: 32px;
+    margin-bottom: 30px;
+}
+
+.details-content {
+    margin: 0 30px;
+}
+
+.details-youtube {
+    margin: 0 auto;
+    display: block;
+}
+
+.button-back {
+    background-color: #010001;
+    max-width: 200px;
+    display: block;
+    margin: 25px auto;
+}
